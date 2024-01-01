@@ -1,2 +1,4 @@
 # dl_from_scratch
-deep learning from scratch
+
+# Description
+Build a simple neural network from scratch for practice 
